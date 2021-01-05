@@ -43,4 +43,4 @@ function save_dirmark
 ```
 source ~/dirMark.sh
 ```
-![dirMarks](https://github.com/lecheel/dirmarks/blob/dirmark01.png)
+![dirMarks](https://github.com/lecheel/dirmarks/blob/main/dirmark01.png)
