@@ -7,7 +7,7 @@ simple way change directory (cd) for windows 10 powershell and bash
 ```
 Add following in ~\Document\PowerShell\Microsoft.PowerShell_profile.ps1
 Set-Alias l list_dirmark
-Set-Alias l list_dirmark
+Set-Alias s save_dirmark
 
 function list_dirmark
 {
